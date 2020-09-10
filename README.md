@@ -15,4 +15,5 @@ and place the columns in the simupor_dataset folder.
 
 # References
 Malik, J., Kiranyaz, S., Al-Raoush, R. I., Monga, O., Garnier, P., Foufou, S., … Baveye, P. C. (2018). 3D Quantum Cuts for Automatic Segmentation of Porous Media in Tomography Images.
+
 Malik, Junaid; Kiranyaz, Serkan; Al-Raoush, Riyadh (2020), “SIMUPOR: Benchmark for multi-phase segmentation of porous media tomography images”, Mendeley Data, V2, doi: 10.17632/mx4hkgsnfn.2
